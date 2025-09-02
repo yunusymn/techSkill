@@ -1,4 +1,1 @@
-# techSkill
-# techSkill
-# techSkill
-# techSkill
+readme olusturuldu.
